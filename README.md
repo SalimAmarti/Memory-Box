@@ -1,4 +1,4 @@
-A memory box is a game to memorize new words based on the "flashcard" method. A "flashcard" is a card on which you can write a word on one side of the card, and write one piece of information on the other side. Then when you pick up a card and read one side, the objective is to remember what is written on the other side of the card.
+A <b>memory box</b> is a game to memorize new words based on the "flashcard" method. A "flashcard" is a card on which you can write a word on one side of the card, and write one piece of information on the other side. Then when you pick up a card and read one side, the objective is to remember what is written on the other side of the card.
 The beauty of this game is that it enables to learn in both ways. It is a well-known and efficient method to connect information together and remember it.
 
 <i> <u> Example</u>: Let's imagine your memory box is for learning countries and their capitals. If you pick a "flashcard" on which "USA" is written. You need to remember "Washington".
