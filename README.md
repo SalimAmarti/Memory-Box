@@ -1,7 +1,4 @@
-The Memory Box Game
-=======
-
-<img src="https://knowledgeone.ca/wp-content/uploads/2018/11/memories.jpg" width="60%">
+![Header](https://github.com/SalimAmarti/Memory-Box/blob/master/Memory_header.gif)
 
 The game
 -------
